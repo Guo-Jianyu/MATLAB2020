@@ -5,4 +5,4 @@ MATLAB 个人文件
 如果有大佬可以用MATLAB来进行车牌的定位，欢迎留言
 本次设计只是对蓝色车牌的识别，其他种类车牌希望以后有大佬在可以补全
 本次代码完全免费，如果有大佬的话，可以给点支持！谢谢
-![Image](https://github.com/Guo-Jianyu/MATLAB2020/skm.png)
+![skm](https://github.com/Guo-Jianyu/MATLAB2020/blob/master/skm.jpg)
